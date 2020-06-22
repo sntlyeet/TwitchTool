@@ -1,4 +1,4 @@
-# TwitchTool - explanation
+# TwitchTool - Explanation
 a tool designed by me to use .txt botlists as a moderator on twitch. Its basically an autotyper that uses a txt file as an input. 
 
 # How to use:
